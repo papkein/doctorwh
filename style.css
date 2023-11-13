@@ -1,0 +1,127 @@
+@font-face {
+    font-family: "tupo-vyaz";
+    src: url(tupo-vyaz_regular.ttf);
+}
+body{
+    margin-top: 0px;
+    font-family: "tupo-vyaz";
+}
+h1{
+    margin-top: 0px;
+}
+.fon {
+    background-image: url(cosmos-1200x800.png);
+}
+.doc {
+    height: 180px;
+    background-image: url(DrWho_mobil.jpg);
+    background-size: 100% 100%;
+}
+.fon2{
+    width: 1500px;
+    background-color: rgb(24, 24, 26); 
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+}
+.fors {
+    width: 1100px;
+    background-image: url(cosmos-1200x800.png);
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 100px;
+}
+.smg{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.s {
+    height: 200px;
+    width: 200px;
+    border: 8px black solid;
+    transition: 1s;
+}
+.s:hover {
+    height: 250px;
+    width: 250px;
+}
+.text {
+    color:azure;
+    text-align: center;
+    font-size: 23px;
+}
+.mgt {
+    margin-top: 30px;
+}
+.meinp {
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+}
+.drp {
+    height: 200px;
+    width: 200px;
+    background-color:darkgray;
+}
+.forp2 {
+    width: 800px;
+    background-image: url(cosmos-1200x800.png);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.seas {
+    margin-top: 60px;
+    height: 450px;
+    background-color: aquamarine;
+}
+.semg {
+    width: 500px;
+    background-color: deepskyblue;
+}
+.se {
+    height: 450px;
+    width: 500px;
+}
+.d-f {
+    display: flex;
+}
+.dv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.pink {
+    background-color:indianred;
+}
+.mr {
+    font-size: 30px;
+}
+.forz {
+    width: 1100px;
+    background-image: url(cosmos-1200x800.png);
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 100px;
+    margin-top: 60px;
+}
+.z {
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.bt {
+    padding-top: 50px;
+}
